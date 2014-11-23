@@ -1,4 +1,5 @@
 Creating Tidy Data Set from the Human Activity Recognition Using Smartphones Data Set
+
 This markdown documents the process of converting data from the "Human Activity Recognition using Smartphones Data Set" into a tidy data set with the average means and standard deviations of each measured variable for each subject/activity pair. The end result is a 180x68 data.frame that will be written to "mean-std-by-subject-activity.txt".
 
 Data Processing
